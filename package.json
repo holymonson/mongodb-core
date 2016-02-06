@@ -30,7 +30,7 @@
     "mongodb-version-manager": "^1.x",
     "co": "4.5.4"
   },
-  "peerDependencies": {
+  "optionalDependencies": {
     "kerberos": "~0.0"
   },
   "author": "Christian Kvalheim",
